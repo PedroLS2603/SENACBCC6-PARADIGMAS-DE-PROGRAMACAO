@@ -23,5 +23,5 @@ O bot utilizado como exemplo é um bot que simplesmente inverte a mensagem priva
 
 Exemplo:
 
-
+Mensagem enviada ao bot -> mensagem retornada pelo bot
 ``` /msg inversor oioioi``` -> ``` (private) inversor: ioioio```
